@@ -1,4 +1,4 @@
-- Hi, I’m @mephi13 and I tend to break stuff
+- Hi, I’m @mephi13 and I like to break stuff
 
 <!---
 mephi13/mephi13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
